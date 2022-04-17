@@ -63,6 +63,7 @@ function checasequenciasGanhadoras(jogador) {
             pintaSequenciaQuanhadora(i, '#4c719b')
             controlaPontos(jogador)
             console.log('sequencia ganhadora' + i, jogador);
+            return 1
         }
     }
 }
