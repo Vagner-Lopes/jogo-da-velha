@@ -1,5 +1,5 @@
-# Jogo da velha
-Jogo da velha criado com HTML, CSS e Javascript
+# Jogo da velha(Tic-Tac-Toe)
+
 
 <!--<img height="100px" src="https://github.com/rafael-vaz/login-session-crud-asp.net-core-mvc/blob/main/projeto-destino-certo/wwwroot/img/logo.png?raw=true">-->
 
