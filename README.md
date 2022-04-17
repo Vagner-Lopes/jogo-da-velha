@@ -14,7 +14,7 @@ Jogo estilo "Tic Tac Toe" criado com HTML, CSS e Javascript
 ## Como executar? 🧑‍🔧
 
 - Basta baixar o projeto e executá-lo em qualquer navegador.
-- Ou diretamente pelo link do [jogo](https://github.com/Vagner-Lopes)
+- Ou diretamente pelo link do [jogo](https://jogodavelha-theta.vercel.app)
 
 
 ## Preview :camera:
@@ -25,4 +25,4 @@ Jogo estilo "Tic Tac Toe" criado com HTML, CSS e Javascript
 
 ***Note:** Você pode visualizar melhor o front-end do sistema clicando no link abaixo:*
 
-https://ainda.em.andamento/
+https://jogodavelha-theta.vercel.app/
