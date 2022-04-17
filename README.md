@@ -1,9 +1,4 @@
-# Jogo da velha(Tic-Tac-Toe)
-
-
-<!--<img height="100px" src="https://github.com/rafael-vaz/login-session-crud-asp.net-core-mvc/blob/main/projeto-destino-certo/wwwroot/img/logo.png?raw=true">-->
-
-## <img height="30px" src="https://cdn-icons-png.flaticon.com/128/2314/2314034.png">  Jogo da velha
+# <img height="30px" src="https://cdn-icons-png.flaticon.com/128/2314/2314034.png">  # Jogo da velha(Tic-Tac-Toe)
 
 Jogo estilo "Tic Tac Toe" criado com HTML, CSS e Javascript
 
@@ -24,7 +19,7 @@ Jogo estilo "Tic Tac Toe" criado com HTML, CSS e Javascript
 
 ## Preview :camera:
 
-<img src="https://github.com/rafael-vaz/login-session-crud-asp.net-core-mvc/blob/main/destino-certo-preview.jpg?raw=true">
+<img src="https://github.com/Vagner-Lopes/jogo-da-velha/blob/main/docs/jogoDaVelha2.png">
 
 ## Link do website 🌎
 
